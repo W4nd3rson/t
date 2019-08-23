@@ -1,0 +1,11 @@
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\bin\Debug\TestCrawler.exe.config
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\bin\Debug\TestCrawler.exe
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\bin\Debug\TestCrawler.pdb
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\bin\Debug\HtmlAgilityPack.dll
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\bin\Debug\HtmlAgilityPack.xml
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\obj\Debug\TestCrawler.csprojAssemblyReference.cache
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\obj\Debug\TestCrawler.csproj.CoreCompileInputs.cache
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\obj\Debug\TestCrawler.csproj.CopyComplete
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\obj\Debug\TestCrawler.exe
+C:\Users\W4nd3rson\source\repos\TestCrawler\TestCrawler\obj\Debug\TestCrawler.pdb
